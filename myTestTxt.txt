@@ -2,3 +2,4 @@ This is a new git version.
 Hello git.
 I add a new sentence at hear. Today is raining.
 I add a new line.
+I add a new line too.
