@@ -1,3 +1,3 @@
 This is a new git version.
 Hello git.
-I add a new sentence at hear.
+I add a new sentence at hear. Today is raining.
